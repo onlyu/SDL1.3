@@ -4,6 +4,8 @@ config.cache
 config.log
 config.status
 Makefile
+Makefile.rules
+libtool
 sdl-config
 SDL.spec
 SDL.qpg
